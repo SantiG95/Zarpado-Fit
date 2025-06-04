@@ -25,7 +25,7 @@ export const VirtualTryOn = () => {
                 <Button
                   variant="secondary"
                   className="mt-4"
-                  onClick={() => (window.location.href = "/upload-photo")}
+                  onClick={() => (window.location.href = "/Zarpado-Fit/upload-photo")}
                 >
                   Subir Foto
                 </Button>

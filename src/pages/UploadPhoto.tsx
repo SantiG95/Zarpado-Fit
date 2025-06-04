@@ -57,7 +57,7 @@ export const UploadPhoto = () => {
             <Button
               variant="primary"
               className="w-full py-4 text-lg transform hover:scale-105"
-              onClick={() => (window.location.href = "/virtual-try-on")}
+              onClick={() => (window.location.href = "/Zarpado-Fit/virtual-try-on")}
             >
               Continuar al Probador{" "}
               <ArrowRight className="inline ml-2 h-5 w-5" />

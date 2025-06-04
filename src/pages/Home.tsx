@@ -26,14 +26,14 @@ export const Home = () => {
               <Button
                 variant="primary"
                 className="px-8 py-4 text-lg hover:shadow-2xl hover:shadow-purple-500/25"
-                onClick={() => (window.location.href = "/virtual-try-on")}
+                onClick={() => (window.location.href = "/Zarpado-Fit/virtual-try-on")}
               >
                 Probar Ahora <ArrowRight className="inline ml-2 h-5 w-5" />
               </Button>
               <Button
                 variant="outline"
                 className="px-8 py-4 text-lg"
-                onClick={() => (window.location.href = "/register")}
+                onClick={() => (window.location.href = "/Zarpado-Fit/register")}
               >
                 Crear Cuenta Gratis
               </Button>
